@@ -1,0 +1,18 @@
+{
+    "files": [
+        {
+            "baseline_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "current_hash": "404cdd7bc109c432f8cc2443b45bcfe95980f5107215c645236e577929ac3e52",
+            "last_modified": "2024-08-23T18:21:26Z",
+            "name": "testfile.txt",
+            "path": "/Users/kenny/Documents/FIM/testfile.txt"
+        },
+        {
+            "baseline_hash": "cd6357efdd966de8c0cb2f876cc89ec74ce35f0968e11743987084bd42fb8944",
+            "current_hash": "REMOVED",
+            "last_modified": "",
+            "name": "testfile2.txt",
+            "path": "/Users/kenny/Desktop/FIM/testfile2.txt"
+        }
+    ]
+}
